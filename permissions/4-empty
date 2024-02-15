@@ -1,2 +1,2 @@
 #!/bin/bash
-echo > hello
+hello > /dev/null 2>&1
